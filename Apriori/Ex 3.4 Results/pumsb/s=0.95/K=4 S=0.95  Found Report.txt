@@ -1,0 +1,2 @@
+Found 34 frequent itemsets of size(K) 4 (with support 0.95)
+Total found 166 frequent itemsets for K = 4 (with support 0.95)

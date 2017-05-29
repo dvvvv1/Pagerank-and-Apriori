@@ -1,0 +1,2 @@
+Found 481 frequent itemsets of size(K) 8 (with support 0.8)
+Total found 8138 frequent itemsets for K = 8 (with support 0.8)

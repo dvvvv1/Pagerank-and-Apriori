@@ -1,0 +1,2 @@
+Found 1314 frequent itemsets of size(K) 7 (with support 0.8)
+Total found 7657 frequent itemsets for K = 7 (with support 0.8)

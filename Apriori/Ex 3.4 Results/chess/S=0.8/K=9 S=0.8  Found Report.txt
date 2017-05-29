@@ -1,0 +1,2 @@
+Found 85 frequent itemsets of size(K) 9 (with support 0.8)
+Total found 8223 frequent itemsets for K = 9 (with support 0.8)

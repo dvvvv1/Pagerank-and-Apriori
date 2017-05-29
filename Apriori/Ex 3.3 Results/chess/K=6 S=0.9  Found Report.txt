@@ -1,0 +1,2 @@
+Found 39 frequent itemsets of size(K) 6 (with support 0.9)
+Total found 618 frequent itemsets for K = 6 (with support 0.9)

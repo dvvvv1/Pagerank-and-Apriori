@@ -1,0 +1,2 @@
+Found 8 frequent itemsets of size(K) 3 (with support 0.78)
+Total found 23 frequent itemsets for K = 3 (with support 0.78)

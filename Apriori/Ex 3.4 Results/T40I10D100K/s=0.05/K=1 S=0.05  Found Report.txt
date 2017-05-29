@@ -1,0 +1,2 @@
+Found 301 frequent itemsets of size(K) 1 (with support 0.05)
+Total found 301 frequent itemsets for K = 1 (with support 0.05)

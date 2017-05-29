@@ -1,0 +1,2 @@
+Found 234 frequent itemsets of size(K) 1 (with support 0.06)
+Total found 234 frequent itemsets for K = 1 (with support 0.06)

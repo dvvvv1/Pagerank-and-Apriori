@@ -1,0 +1,3 @@
+11 Interations completed
+Total found 8227 frequent itemsets for K = 11 (with support 0.8)
+Total time spent: 51 secs

@@ -1,0 +1,2 @@
+Found 1 frequent itemsets of size(K) 5 (with support 0.007)
+Total found 601 frequent itemsets for K = 5 (with support 0.007)

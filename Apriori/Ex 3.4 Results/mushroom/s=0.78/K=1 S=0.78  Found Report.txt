@@ -1,0 +1,2 @@
+Found 5 frequent itemsets of size(K) 1 (with support 0.78)
+Total found 5 frequent itemsets for K = 1 (with support 0.78)

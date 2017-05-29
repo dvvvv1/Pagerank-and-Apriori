@@ -1,0 +1,2 @@
+Found 4 frequent itemsets of size(K) 10 (with support 0.8)
+Total found 8227 frequent itemsets for K = 10 (with support 0.8)

@@ -1,0 +1,2 @@
+Found 108 frequent itemsets of size(K) 2 (with support 0.95)
+Total found 125 frequent itemsets for K = 2 (with support 0.95)
